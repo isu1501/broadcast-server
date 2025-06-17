@@ -22,4 +22,4 @@ A CLI-based broadcast server in Go that allows multiple clients to connect, send
 ### 🔧 1. Build the project
 
 ```bash
-go build -o broadcast-server
+go build -o broadcast-server main.go
